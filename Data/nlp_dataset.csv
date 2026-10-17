@@ -1,24 +1,4 @@
 text,label
-Aracımdaki arızayı öğrenmek için cihaz taktım ama ekranda sürekli P0000 kodu çıkıyor.,P0000
-Sanayiideki ucuz cihaz aracıma uyum sağlamadığı için ekranda hep P0000 yazısı beliriyor.,P0000
-İnternetten aldığım genel arıza tespit cihazı arabamla anlaşamadığı için P0000 hatası veriyor.,P0000
-Arabaya bağladığım ucuz cihaz aracı desteklemediğinden ekranda sadece P0000 kodu görünüyor.,P0000
-Farklı araçlar için olan çok amaçlı cihazı taktığımda ekranda sürekli P0000 hatası alıyorum.,P0000
-Uygun olmayan bir OBD cihazı kullandığım için ekranda P0000 kodundan başka bir şey çıkmıyor.,P0000
-Basit bir arıza okuyucu taktım ama araçla iletişim kuramayıp ekrana P0000 yansıtıyor.,P0000
-Aldığım ucuz tarayıcı cihazı arabayı desteklemiyor ve sürekli P0000 kodu gösterip duruyor.,P0000
-Piyasadaki ucuz cihazlar arabamın beyniyle konuşamadığı için ekran P0000 hatası veriyor.,P0000
-Genel amaçlı bir teşhis cihazı taktım fakat araçla uyumsuz olduğu için P0000 çıkıyor.,P0000
-Arabamın markasına özel olmayan ucuz bir cihaz yüzünden ekranda hep P0000 yazıyor.,P0000
-Uyduruk bir OBD cihazı takınca aracım bunu algılayamıyor ve ekranda P0000 görünüyor.,P0000
-Yetersiz bir tarama cihazı kullandığım için arıza tespit ekranında sadece P0000 hatası var.,P0000
-Oto tamircideki ucuz cihaz benim aracı desteklemediği için sürekli P0000 kodu veriyor.,P0000
-Piyasadan aldığım genel cihaz arabayla uyumlu olmadığı için ekran P0000 hatasına takıldı.,P0000
-Kalitesiz bir tarayıcı cihazı OBD soketine takınca doğrudan P0000 arıza kodu çıkıyor.,P0000
-Arabamın sistemini desteklemeyen ucuz bir cihaz yüzünden ekran P0000 kodundan ileri gitmiyor.,P0000
-Uyumsuz ve ucuz bir arıza tespit cihazı taktığımda ekranda P0000 yazısıyla karşılaşıyorum.,P0000
-Genel tip bir OBD cihazı kullandığım için aracım bunu okuyamadı ve P0000 verdi.,P0000
-Desteklemeyen bir tarama aleti taktığım için ekranda anlamsız bir şekilde P0000 yazıyor.,P0000
 Gösterge panelinde motor arıza lambası yandı ve araba bir türlü çalışmıyor.,P0001
 "Sabah kontağı çevirdim, motor arıza lambası yandı ve araç marş alıp çalışmıyor.",P0001
 "Aracın arıza lambası yandı, motor çalışmıyor ve gaz versem de gitmiyor sanki.",P0001
